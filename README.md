@@ -1,4 +1,4 @@
-# cZone--Arduino--VariousSketches
+# GitHub/cZone--Arduino--variousSketches
 
 Various sketches for Arduino
 
